@@ -11,6 +11,7 @@ herramientas propias de la programación. Que qué es un algoritmo? También lo
 veremos.
 
 Docente
+
 Maximiliano Sar Fernández. Licenciado en Tecnología Educativa, Universidad Tecnológica
 Nacional Facultad Regional Buenos Aires, UTN FRBA.
 Técnico Superior en Programación y Técnico Superior en Sistemas Informáticos, Universidad
