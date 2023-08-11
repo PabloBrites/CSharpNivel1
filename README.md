@@ -10,14 +10,14 @@ qué es programar en realidad, hasta crear simples y complejos algoritmos con di
 herramientas propias de la programación. Que qué es un algoritmo? También lo
 veremos.
 
-Docente
+Docente:
 
 Maximiliano Sar Fernández. Licenciado en Tecnología Educativa, Universidad Tecnológica
 Nacional Facultad Regional Buenos Aires, UTN FRBA.
 Técnico Superior en Programación y Técnico Superior en Sistemas Informáticos, Universidad
 Tecnológica Nacional Facultad Regional General Pacheco, UTN FRGP.
 
-Contenido del curso
+Contenido del curso:
 
 Unidad 1
 • Qué es un programa. Qué es programar.
