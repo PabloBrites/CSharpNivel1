@@ -10,7 +10,7 @@ namespace ejercicio1
            //No se debe realizar ningún pedido de datos. 
 
 
-            for(int i = 1; i <= 10; i++){
+            for(int i = 1; i <= 10; i++)
             Console.WriteLine(i);
             
 
@@ -18,7 +18,7 @@ namespace ejercicio1
 
            //int con = 1;
 
-           //while(con <= 10){
+           //while(con <= 10)
            //Console.WriteLine(con);
            //con++;
            //}
