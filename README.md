@@ -2,14 +2,6 @@
 
 En este curso aprenderemos las bases de la programación llevadas directamente a la ejecución. Para ello usaremos el lenguaje de programación C# más la plataforma de Microsoft .Net. Una de las tecnologías más utilizadas en la industria.
 
-La programación es una de las disciplinas con la demanda de mayor crecimiento en los
-últimos años. Se encuentra presente en cada vez más aspectos tanto laborales, como
-en la enseñanza, y hasta en la vida cotidiana (internet of things). En este curso
-aprenderemos a programar completamente desde cero; desde qué es un programa o
-qué es programar en realidad, hasta crear simples y complejos algoritmos con distintas
-herramientas propias de la programación. Que qué es un algoritmo? También lo
-veremos.
-
 Docente:
 
 Maximiliano Sar Fernández. Licenciado en Tecnología Educativa, Universidad Tecnológica
