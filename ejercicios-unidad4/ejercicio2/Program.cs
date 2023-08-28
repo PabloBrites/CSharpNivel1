@@ -47,26 +47,26 @@ namespace ejercicio2
 
         }   // otra forma de hacerlo:
 
-            float importe, litros, importeFinal = 0;
+            //float importe, litros, importeFinal = 0;
             
-            Console.WriteLine("Ingrese el importe:");
-            importe = float.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la cantidad de litros:");
-            litros = float.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese el importe:");
+            //importe = float.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese la cantidad de litros:");
+            //litros = float.Parse(Console.ReadLine());
 
-            if(litros <= 100)
-                importeFinal = importe;
+            //if(litros <= 100)
+                //importeFinal = importe;
             
-            else if(litros >= 101 && litros <= 300)
-                importeFinal = importe * 0.90F;
+            //else if(litros >= 101 && litros <= 300)
+                //importeFinal = importe * 0.90F;
             
-            else if(litros >= 301 && litros <= 500)
-                importeFinal = importe * 0.85F;
+            //else if(litros >= 301 && litros <= 500)
+               // //importeFinal = importe * 0.85F;
             
-            else
-                importeFinal = importe * 0.75F;
+            //else
+                //importeFinal = importe * 0.75F;
                 
             
-            Console.WriteLine("El importe final es de: " + importeFinal);
+            //Console.WriteLine("El importe final es de: " + importeFinal);
     }
 }
