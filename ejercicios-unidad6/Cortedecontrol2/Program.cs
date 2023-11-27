@@ -56,20 +56,21 @@ namespace Cortedecontrol2
                             menago = monto;
                             prodmenago = numerodeproducto;
                         }
-                    Console.WriteLine("Ingrese el Numero de proveedor:");
-                    numerodeproveedor = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el Dia:");
-                    Dia = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el Mes:");
-                    Mes = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el tipo de factura:");
-                    tipodefactura = Char.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el numero de producto:");
-                    numerodeproducto = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese la cantidad comprada");
-                    cantidadcomprada = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el precio unitario del producto:");
-                    preciounitariodelproducto = int.Parse(Console.ReadLine());               
+                    
+                        Console.WriteLine("Ingrese el Numero de proveedor:");
+                        numerodeproveedor = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Ingrese el Dia:");
+                        Dia = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Ingrese el Mes:");
+                        Mes = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Ingrese el tipo de factura:");
+                        tipodefactura = Char.Parse(Console.ReadLine());
+                        Console.WriteLine("Ingrese el numero de producto:");
+                        numerodeproducto = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Ingrese la cantidad comprada");
+                        cantidadcomprada = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Ingrese el precio unitario del producto:");
+                        preciounitariodelproducto = int.Parse(Console.ReadLine());               
                     
                 }
                 Console.WriteLine("La cantidad de compras que se realizo a proveedor " + proveedoractual + " fue de: " + conCCp);
