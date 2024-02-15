@@ -56,3 +56,7 @@ Unidad 8
 • Funciones
 • Tipos de funciones. Return.
 • Parámetros por valor y por referencia.
+
+![Certificado C# Nivel 1 - Pablo Brites](https://github.com/PabloBrites/CSharpNivel1/assets/127681443/d22b7eba-fe21-408a-a142-de3206caca4f)
+
+
