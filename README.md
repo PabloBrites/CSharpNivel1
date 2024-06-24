@@ -1,15 +1,5 @@
 # CSharpNivel1
-
-En este curso aprenderemos las bases de la programación llevadas directamente a la ejecución. Para ello usaremos el lenguaje de programación C# más la plataforma de Microsoft .Net. Una de las tecnologías más utilizadas en la industria.
-
-Docente:
-
-Maximiliano Sar Fernández. Licenciado en Tecnología Educativa, Universidad Tecnológica
-Nacional Facultad Regional Buenos Aires, UTN FRBA.
-Técnico Superior en Programación y Técnico Superior en Sistemas Informáticos, Universidad
-Tecnológica Nacional Facultad Regional General Pacheco, UTN FRGP.
-
-Contenido del curso:
+![Certificado C# Nivel 1 - Pablo Brites](https://github.com/PabloBrites/CSharpNivel1/assets/127681443/d22b7eba-fe21-408a-a142-de3206caca4f)
 
 Unidad 1
 • Qué es un programa. Qué es programar.
@@ -57,6 +47,6 @@ Unidad 8
 • Tipos de funciones. Return.
 • Parámetros por valor y por referencia.
 
-![Certificado C# Nivel 1 - Pablo Brites](https://github.com/PabloBrites/CSharpNivel1/assets/127681443/d22b7eba-fe21-408a-a142-de3206caca4f)
+
 
 
